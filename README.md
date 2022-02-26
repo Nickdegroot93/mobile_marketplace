@@ -10,10 +10,8 @@ This project has been created purely for learning purposes, using a course from 
 
 A user can register an account and upload their items to the marketplace. All form validation for registering and uploading has been created using a combination of Formik and Yup. It uses common mobile features such using geolocation, accessing the phone's gallery, swiping up to refresh, side swipes delete, tab and stack navigators, offline support and more. The project has a focus on reusable components, clean code and a few custom hooks.
 
-<img src="/app/assets/screen4.png" width=50% height=50%>
-
-![template](/app/assets/screen4.png)
-![template](/app/assets/screen5.png)
-![template](/app/assets/screen1.png)
-![template](/app/assets/screen2.png)
-![template](/app/assets/screen3.png)
+<img src="/app/assets/screen4.png" width=35% height=35%>
+<img src="/app/assets/screen5.png" width=35% height=35%>
+<img src="/app/assets/screen1.png" width=35% height=35%>
+<img src="/app/assets/screen2.png" width=35% height=35%>
+<img src="/app/assets/screen3.png" width=35% height=35%>
